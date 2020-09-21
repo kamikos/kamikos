@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on termial looking like website
+- 🌱 I’m currently learning c#
+- 📫 Discord: kamikos#1337
+- ⚡ Fun fact: I dont like bananas
 <!--
 **kamikos/kamikos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
