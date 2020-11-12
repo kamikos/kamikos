@@ -1,8 +1,4 @@
-### Hi there 👋
-c# - a bit lol
-js - yes
-css - B)
-html - best prgrammin lnag 11/10 
+### i need a better readme - me
 - 📫 Discord: kamikos#1337
 <!--
 k
